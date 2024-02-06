@@ -193,19 +193,19 @@ async function main() {
     .then((data) => data.data)
 
   {
-    // TOP 5
-//     const topStar5 = star
-//       .slice(0, 5)
-//       .reduce((str, cur) => str + generateRepoHTML(cur), '')
+  // TOP 5
+    const topStar5 = star
+      .slice(0, 5)
+      .reduce((str, cur) => str + generateRepoHTML(cur), '')
 
-//     newContent = newContent.replace(
-//       gc('RECENT_STAR'),
-//       m`
-//     <ul>
-// ${topStar5}
-//     </ul>
-//     `,
-//     )
+    newContent = newContent.replace(
+      gc('RECENT_STAR'),
+      m`
+    <ul>
+${topStar5}
+    </ul>
+    `,
+    )
 
     // 曾经点过的 Star
     const random = shuffle(star.slice(5))
