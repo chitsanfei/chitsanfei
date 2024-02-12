@@ -8,6 +8,7 @@ export const opensource = {
       random: true,
       repos: [
         'chitsanfei/koishi-plugin-setu',
+        'chitsanfei/sekai-voice-fetch', 
         //'',
       ],
     },
