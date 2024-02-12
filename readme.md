@@ -76,9 +76,9 @@ recent_posts_inject
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/MrMarble/termsvg>MrMarble/termsvg</a><p>Record, share and export your terminal as a animated SVG image.</p></li><li><a href=https://github.com/MLEveryday/100-Days-Of-ML-Code>MLEveryday/100-Days-Of-ML-Code</a><p>100-Days-Of-ML-Code中文版</p></li><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><p>分流规则、重写写规则及脚本。</p></li><li><a href=https://github.com/microsoft/DeepSpeedExamples>microsoft/DeepSpeedExamples</a><p>Example models using DeepSpeed</p></li><li><a href=https://github.com/microsoft/DeepSpeed>microsoft/DeepSpeed</a><p>DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.</p></li></ul>
+<ul><li><a href=https://github.com/Anjok07/ultimatevocalremovergui>Anjok07/ultimatevocalremovergui</a><p>GUI for a Vocal Remover that uses Deep Neural Networks.</p></li><li><a href=https://github.com/PlayVoice/lora-svc>PlayVoice/lora-svc</a><p>singing voice change based on whisper, and lora for singing voice clone</p></li><li><a href=https://github.com/vim/vim>vim/vim</a><p>The official Vim repository</p></li><li><a href=https://github.com/ArkanDash/Multi-Model-RVC-Inference>ArkanDash/Multi-Model-RVC-Inference</a><p>RVC Inference with multiple model and huggingface support</p></li><li><a href=https://github.com/MoonInTheRiver/DiffSinger>MoonInTheRiver/DiffSinger</a><p>DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS); AAAI 2022; Official code</p></li></ul>
 
 ------------
 
 <p align=center><strong> Life will not give you any lemon. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：2/11/24, 8:11 AM<br>下一次刷新：2/12/24, 8:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：2/12/24, 8:10 AM<br>下一次刷新：2/13/24, 8:10 AM</p>
