@@ -61,7 +61,7 @@
 
 <!-- opensource_dashboard:active -->
 
-**👀 | Some Repos...**
+**🎩 | Some Toys...**
 
 <!-- opensource_toys -->
 
