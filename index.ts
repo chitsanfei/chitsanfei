@@ -4,9 +4,10 @@ import { readFile, rm, writeFile } from 'fs/promises'
 import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
 import MarkdownIt from 'markdown-it'
-import { github, motto, mxSpace, opensource, timeZone } from './config'
+import { github, motto, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 import { GRepo } from './types'
+import rax from 'retry-axios'
 
 
 rax.attach()
