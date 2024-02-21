@@ -1,6 +1,7 @@
 export const opensource = {
     active: [
-        'chitsanfei/rin-asf-bot',        
+        'chitsanfei/rin-asf-bot',
+        'SozaBot/sozabot-v11.4',
       //'',
     ],
     toys: {
