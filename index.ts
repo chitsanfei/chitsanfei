@@ -7,26 +7,23 @@ import MarkdownIt from 'markdown-it'
 import { github, motto, mxSpace, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 import { GRepo } from './types'
-import {
-  AggregateController,
-  createClient,
-  NoteModel,
-  PostModel,
-} from '@mx-space/api-client'
-import { axiosAdaptor } from '@mx-space/api-client/lib/adaptors/axios'
 
-const mxClient = createClient(axiosAdaptor)(mxSpace.api, {
-  controllers: [AggregateController],
-})
 
-axiosAdaptor.default.interceptors.request.use((req) => {
-  req.headers && (req.headers['User-Agent'] = 'Innei profile')
-  return req
-})
+rax.attach()
+axios.defaults.raxConfig = {
+  retry: 5,
+  retryDelay: 4000,
+  onRetryAttempt: (err) => {
+    const cfg = rax.getConfig(err)
+    console.log('request: \n', err.request)
+    console.log(`Retry attempt #${cfg.currentRetryAttempt}`)
+  },
+}
 
 const md = new MarkdownIt({
   html: true,
 })
+
 const githubAPIEndPoint = 'https://api.github.com'
 
 
@@ -142,23 +139,6 @@ function generateRepoHTML<T extends GHItem>(item: T) {
     }</li>`
 }
 
-function generatePostItemHTML<T extends Partial<PostModel>>(item: T) {
-  return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
-    dateStyle: 'short',
-    timeZone,
-  })} -  <a href="${mxSpace.url + '/posts/' + item.category.slug + '/' + item.slug
-    }">${item.title}</a></span>${item.summary ? `<p>${item.summary}</p>` : ''
-    }</li>`
-}
-
-function generateNoteItemHTML<T extends Partial<NoteModel>>(item: T) {
-  return m`<li><span>${new Date(item.created).toLocaleDateString(undefined, {
-    dateStyle: 'short',
-    timeZone,
-  })} -  <a href="${mxSpace.url + '/notes/' + item.nid}">${item.title
-    }</a></span></li>`
-}
-
 async function main() {
   const template = await readFile('./readme.template.md', { encoding: 'utf-8' })
   let newContent = template
@@ -217,36 +197,6 @@ ${topStar5}
       m`
       <ul>
   ${random}
-      </ul>
-      `,
-    )
-  }
-
-  {
-    const posts = await mxClient.aggregate
-      .getTimeline()
-      .then((data) => data.data)
-      .then((data) => {
-        const posts = data.posts
-        const notes = data.notes
-        const sorted = [
-          ...posts.map((i) => ({ ...i, type: 'Post' as const })),
-          ...notes.map((i) => ({ ...i, type: 'Note' as const })),
-        ].sort((b, a) => +new Date(a.created) - +new Date(b.created))
-        return sorted.slice(0, 5).reduce((acc, cur) => {
-          if (cur.type === 'Note') {
-            return acc.concat(generateNoteItemHTML(cur))
-          } else {
-            return acc.concat(generatePostItemHTML(cur))
-          }
-        }, '')
-      })
-
-    newContent = newContent.replace(
-      gc('RECENT_POSTS'),
-      m`
-      <ul>
-  ${posts}
       </ul>
       `,
     )
