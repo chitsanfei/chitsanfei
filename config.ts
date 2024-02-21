@@ -14,7 +14,7 @@ export const opensource = {
       ],
     },
   }
-  export const motto = `<p align=center><strong> Life will not give you any lemon. </strong></p>`
+  export const motto = `<p align=center><strong><i> To infinity and beyond! </i></strong></p>`
   export const github = {
     name: 'Chitsanfei',
   }
