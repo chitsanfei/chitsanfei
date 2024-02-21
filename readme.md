@@ -76,9 +76,9 @@ recent_posts_inject
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/djkcyl/Shamrock>djkcyl/Shamrock</a></li><li><a href=https://github.com/vim/vim>vim/vim</a><p>The official Vim repository</p></li><li><a href=https://github.com/rizinorg/cutter>rizinorg/cutter</a><p>Free and Open Source Reverse Engineering Platform powered by rizin</p></li><li><a href=https://github.com/microsoft/DeepSpeedExamples>microsoft/DeepSpeedExamples</a><p>Example models using DeepSpeed</p></li></ul>
+<ul><li><a href=https://github.com/PlayVoice/so-vits-svc-5.0>PlayVoice/so-vits-svc-5.0</a><p>Core Engine of Singing Voice Conversion & Singing Voice Clone</p></li><li><a href=https://github.com/MatsuriDayo/nekoray>MatsuriDayo/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)</p></li><li><a href=https://github.com/RayWangQvQ/BiliBiliToolPro>RayWangQvQ/BiliBiliToolPro</a><p>B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。</p></li><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><p>分流规则、重写写规则及脚本。</p></li><li><a href=https://github.com/yujincheng08/BiliRoaming>yujincheng08/BiliRoaming</a><p>哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.</p></li></ul>
 
 ------------
 
-<p align=center><strong> Life will not give you any lemon. </strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：2/21/24, 4:42 PM<br>下一次刷新：2/22/24, 4:42 PM</p>
+<p align=center><strong><i> To infinity and beyond! </i></strong></p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：2/21/24, 4:47 PM<br>下一次刷新：2/22/24, 4:47 PM</p>
