@@ -76,9 +76,9 @@ recent_posts_inject
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/whyour/qinglong>whyour/qinglong</a><p>支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）</p></li><li><a href=https://github.com/yujincheng08/BiliRoaming>yujincheng08/BiliRoaming</a><p>哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.</p></li><li><a href=https://github.com/MrMarble/termsvg>MrMarble/termsvg</a><p>Record, share and export your terminal as a animated SVG image.</p></li><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a><p>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</p></li><li><a href=https://github.com/djkcyl/Shamrock>djkcyl/Shamrock</a></li></ul>
+<ul><li><a href=https://github.com/ArkanDash/Multi-Model-RVC-Inference>ArkanDash/Multi-Model-RVC-Inference</a><p>RVC Inference with multiple model and huggingface support</p></li><li><a href=https://github.com/vim/vim>vim/vim</a><p>The official Vim repository</p></li><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><p>分流规则、重写写规则及脚本。</p></li><li><a href=https://github.com/Anjok07/ultimatevocalremovergui>Anjok07/ultimatevocalremovergui</a><p>GUI for a Vocal Remover that uses Deep Neural Networks.</p></li><li><a href=https://github.com/ShusenTang/Dive-into-DL-PyTorch>ShusenTang/Dive-into-DL-PyTorch</a><p>本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：3/5/24, 8:09 AM<br>下一次刷新：3/6/24, 8:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：3/6/24, 8:09 AM<br>下一次刷新：3/7/24, 8:09 AM</p>
