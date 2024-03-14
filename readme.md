@@ -76,9 +76,9 @@ recent_posts_inject
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/yujincheng08/BiliRoaming>yujincheng08/BiliRoaming</a><p>哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.</p></li><li><a href=https://github.com/rizinorg/cutter>rizinorg/cutter</a><p>Free and Open Source Reverse Engineering Platform powered by rizin</p></li><li><a href=https://github.com/microsoft/DeepSpeedExamples>microsoft/DeepSpeedExamples</a><p>Example models using DeepSpeed</p></li></ul>
+<ul><li><a href=https://github.com/MatsuriDayo/nekoray>MatsuriDayo/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)</p></li><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a><p>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</p></li><li><a href=https://github.com/microsoft/DeepSpeedExamples>microsoft/DeepSpeedExamples</a><p>Example models using DeepSpeed</p></li><li><a href=https://github.com/ArkanDash/Multi-Model-RVC-Inference>ArkanDash/Multi-Model-RVC-Inference</a><p>RVC Inference with multiple model and huggingface support</p></li><li><a href=https://github.com/Anjok07/ultimatevocalremovergui>Anjok07/ultimatevocalremovergui</a><p>GUI for a Vocal Remover that uses Deep Neural Networks.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：3/13/24, 8:09 AM<br>下一次刷新：3/14/24, 8:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：3/14/24, 8:09 AM<br>下一次刷新：3/15/24, 8:09 AM</p>
