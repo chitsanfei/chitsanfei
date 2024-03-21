@@ -76,9 +76,9 @@ recent_posts_inject
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/DLLXW/baby-llama2-chinese>DLLXW/baby-llama2-chinese</a><p>用于从头预训练+SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2.</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><p>分流规则、重写写规则及脚本。</p></li><li><a href=https://github.com/ArkanDash/Multi-Model-RVC-Inference>ArkanDash/Multi-Model-RVC-Inference</a><p>RVC Inference with multiple model and huggingface support</p></li><li><a href=https://github.com/PlayVoice/lora-svc>PlayVoice/lora-svc</a><p>singing voice change based on whisper, and lora for singing voice clone</p></li></ul>
+<ul><li><a href=https://github.com/vim/vim>vim/vim</a><p>The official Vim repository</p></li><li><a href=https://github.com/s0md3v/roop>s0md3v/roop</a><p>one-click face swap</p></li><li><a href=https://github.com/ShusenTang/Dive-into-DL-PyTorch>ShusenTang/Dive-into-DL-PyTorch</a><p>本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。</p></li><li><a href=https://github.com/MrMarble/termsvg>MrMarble/termsvg</a><p>Record, share and export your terminal as a animated SVG image.</p></li><li><a href=https://github.com/PlayVoice/lora-svc>PlayVoice/lora-svc</a><p>singing voice change based on whisper, and lora for singing voice clone</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：3/20/24, 8:09 AM<br>下一次刷新：3/21/24, 8:09 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：3/21/24, 8:10 AM<br>下一次刷新：3/22/24, 8:10 AM</p>
