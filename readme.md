@@ -63,7 +63,7 @@
 
 **🎩 | Some Toys...**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>3/24/2023</td><td>5/1/2024</td></tr><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>3/27/2023</td><td>10/19/2023</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>3/27/2023</td><td>10/19/2023</td></tr><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>3/24/2023</td><td>5/1/2024</td></tr></tbody></table>
 
 <!--
 **最近写了...**
@@ -76,9 +76,9 @@ recent_posts_inject
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/MatsuriDayo/nekoray>MatsuriDayo/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)</p></li><li><a href=https://github.com/rizinorg/cutter>rizinorg/cutter</a><p>Free and Open Source Reverse Engineering Platform powered by rizin</p></li><li><a href=https://github.com/Qv2ray/Qv2ray>Qv2ray/Qv2ray</a><p>:star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:</p></li><li><a href=https://github.com/stakira/OpenUtau>stakira/OpenUtau</a><p>Open singing synthesis platform / Open source UTAU successor</p></li><li><a href=https://github.com/alexzielenski/Mousecape>alexzielenski/Mousecape</a><p>Cursor Manager for OSX</p></li></ul>
+<ul><li><a href=https://github.com/ArkanDash/Multi-Model-RVC-Inference>ArkanDash/Multi-Model-RVC-Inference</a><p>RVC Inference with multiple model and huggingface support</p></li><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><p>分流规则、重写写规则及脚本。</p></li><li><a href=https://github.com/mx-space/Shiro>mx-space/Shiro</a><p>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/DLLXW/baby-llama2-chinese>DLLXW/baby-llama2-chinese</a><p>用于从头预训练+SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2.</p></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：5/2/24, 8:10 AM<br>下一次刷新：5/3/24, 8:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：5/3/24, 8:10 AM<br>下一次刷新：5/4/24, 8:10 AM</p>
