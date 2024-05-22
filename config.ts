@@ -1,6 +1,7 @@
 export const opensource = {
     active: [
         'chitsanfei/rin-asf-bot',
+        'chitsanfei/monster-medical-learning-book',
       //'',
     ],
     toys: {
