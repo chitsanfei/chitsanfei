@@ -76,9 +76,9 @@ recent_posts_inject
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/MrMarble/termsvg>MrMarble/termsvg</a><p>Record, share and export your terminal as a animated SVG image.</p></li><li><a href=https://github.com/rizinorg/cutter>rizinorg/cutter</a><p>Free and Open Source Reverse Engineering Platform powered by rizin</p></li><li><a href=https://github.com/Qv2ray/Qv2ray>Qv2ray/Qv2ray</a><p>:star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:</p></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li><li><a href=https://github.com/Sitoi/dailycheckin>Sitoi/dailycheckin</a><p>基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜</p></li></ul>
+<ul><li><a href=https://github.com/stakira/OpenUtau>stakira/OpenUtau</a><p>Open singing synthesis platform / Open source UTAU successor</p></li><li><a href=https://github.com/ArkanDash/Multi-Model-RVC-Inference>ArkanDash/Multi-Model-RVC-Inference</a><p>RVC Inference with multiple model and huggingface support</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/s0md3v/roop>s0md3v/roop</a><p>one-click face swap</p></li><li><a href=https://github.com/djkcyl/Shamrock>djkcyl/Shamrock</a></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：8/13/24, 8:11 AM<br>下一次刷新：8/14/24, 8:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/MoYoez/MoYoez>Moyoez</a> 的 Github Profile, Thanks.</b><br>刷新于：8/14/24, 8:11 AM<br>下一次刷新：8/15/24, 8:11 AM</p>
