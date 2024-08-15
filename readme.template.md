@@ -1,5 +1,5 @@
 # Chitsanfei0v0 ![](https://visitor-badge.laobi.icu/badge?page_id=chitsanfei.visitor-badge)
-![OtoriEmu](https://github.com/chitsanfei/chitsanfei/assets/40637516/e87f3408-b063-4d18-b380-d773a4fd9055)
+![METEOR](https://github.com/user-attachments/assets/5d2f37b3-f356-4636-abdb-72464a96641e)
 
 
 
@@ -9,7 +9,7 @@
 
 - As a fact, I'm not a computer science student. But I'm interested in Programming, AI and so on. I'm trying to learn from all one of you in Github and I may occur some issues on project or make mistakes. I do really apologize for that. Please don't get mad on me. ( •ᴗ• )
 
-> いろんな困難にぶつかっても、まだ生きてるよ！
+- **いろんな困難にぶつかっても、まだ生きてるよ！**
 
 ---
 
