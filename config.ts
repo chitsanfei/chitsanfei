@@ -16,7 +16,17 @@ export const opensource = {
   }
   export const motto = `<p align=center><strong><i> To infinity and beyond! </i></strong></p>`
   export const github = {
-    name: 'Chitsanfei',
+    name: 'chitsanfei',
   }
+
+  // export const mxSpace = {
+  //   url: "",
+  //   api: "",
+  // };
+
+  export const mxSpace = {
+    url: "https://innei.in",
+    api: "https://api.innei.ren/v2",
+  };
   
   export const timeZone = 'Asia/Shanghai'
