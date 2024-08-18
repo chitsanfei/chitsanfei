@@ -63,11 +63,11 @@
 
 **🎩 | Some Toys...**
 
-<table><thead align=center><tr><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Created At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>2023/3/28</td><td>2023/10/20</td></tr><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>2023/3/25</td><td>2024/7/24</td></tr></tbody></table>
+<table><thead align=center><tr><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Created At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>3/27/2023</td><td>10/19/2023</td></tr><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>3/24/2023</td><td>7/24/2024</td></tr></tbody></table>
 
 **📖 | Recent Writing...**
 
-<ul><li><span>2024/8/18 - <a href=https://sekai.us.kg/posts/erkenntnis/129ad0b7>一键摧毁 Git Commits 记录</a></span></li><li><span>2024/8/18 - <a href=https://sekai.us.kg/notes/1>博客更换咯</a></span></li><li><span>2024/8/18 - <a href=https://sekai.us.kg/posts/erkenntnis/47021a1b>如何在 Jupyter Notebook 以及 Huggingface Space 中使用 R 语言内核</a></span></li></ul>
+<ul><li><span>8/18/24 - <a href=https://sekai.us.kg/posts/erkenntnis/129ad0b7>一键摧毁 Git Commits 记录</a></span></li><li><span>8/18/24 - <a href=https://sekai.us.kg/notes/1>博客更换咯</a></span></li><li><span>8/18/24 - <a href=https://sekai.us.kg/posts/erkenntnis/47021a1b>如何在 Jupyter Notebook 以及 Huggingface Space 中使用 R 语言内核</a></span></li></ul>
 
 **💖 | Recently Liked...**
 
@@ -75,9 +75,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/PlayVoice/whisper-vits-svc>PlayVoice/whisper-vits-svc</a><p>Core Engine of Singing Voice Conversion & Singing Voice Clone</p></li><li><a href=https://github.com/MrMarble/termsvg>MrMarble/termsvg</a><p>Record, share and export your terminal as a animated SVG image.</p></li><li><a href=https://github.com/Ashutosh00710/github-readme-activity-graph>Ashutosh00710/github-readme-activity-graph</a><p>A dynamically generated activity graph to show your GitHub activities of last 31 days.</p></li><li><a href=https://github.com/MatsuriDayo/nekoray>MatsuriDayo/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: sing-box)</p></li><li><a href=https://github.com/Qv2ray/Qv2ray>Qv2ray/Qv2ray</a><p>:star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:</p></li></ul>
+<ul><li><a href=https://github.com/rhwong/qsign-onekey>rhwong/qsign-onekey</a><p>Quickly start the Qsign service on Windows</p></li><li><a href=https://github.com/whyour/qinglong>whyour/qinglong</a><p>支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）</p></li><li><a href=https://github.com/RayWangQvQ/BiliBiliToolPro>RayWangQvQ/BiliBiliToolPro</a><p>B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。</p></li><li><a href=https://github.com/ShusenTang/Dive-into-DL-PyTorch>ShusenTang/Dive-into-DL-PyTorch</a><p>本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。</p></li><li><a href=https://github.com/Ashutosh00710/github-readme-activity-graph>Ashutosh00710/github-readme-activity-graph</a><p>A dynamically generated activity graph to show your GitHub activities of last 31 days.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：2024/8/18 14:43<br>下一次刷新：2024/8/19 14:43</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/18/24, 2:46 PM<br>下一次刷新：8/19/24, 2:46 PM</p>
