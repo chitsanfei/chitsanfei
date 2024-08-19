@@ -62,11 +62,11 @@
 
 **🎩 | Some Toys...**
 
-<table><thead align=center><tr><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Created At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>2023/3/28</td><td>2023/10/20</td></tr><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>2023/3/25</td><td>2024/7/24</td></tr></tbody></table>
+<table><thead align=center><tr><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Created At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>3/27/2023</td><td>10/19/2023</td></tr><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>3/24/2023</td><td>7/24/2024</td></tr></tbody></table>
 
 **📖 | Recent Writing...**
 
-<ul><li><span>2024/8/18 - <a href=https://sekai.us.kg/posts/erkenntnis/129ad0b7>一键摧毁 Git Commits 记录</a></span></li><li><span>2024/8/18 - <a href=https://sekai.us.kg/notes/1>博客更换咯</a></span></li><li><span>2024/8/18 - <a href=https://sekai.us.kg/posts/erkenntnis/47021a1b>如何在 Jupyter Notebook 以及 Huggingface Space 中使用 R 语言内核</a></span></li></ul>
+<ul><li><span>8/18/24 - <a href=https://sekai.us.kg/posts/erkenntnis/129ad0b7>一键摧毁 Git Commits 记录</a></span></li><li><span>8/18/24 - <a href=https://sekai.us.kg/notes/1>博客更换咯</a></span></li><li><span>8/18/24 - <a href=https://sekai.us.kg/posts/erkenntnis/47021a1b>如何在 Jupyter Notebook 以及 Huggingface Space 中使用 R 语言内核</a></span></li></ul>
 
 **💖 | Recently Liked...**
 
@@ -74,9 +74,17 @@
 
 **🌟 | Starred**
 
+<<<<<<< HEAD
 <ul><li><a href=https://github.com/stark81/my_yesplaymusic>stark81/my_yesplaymusic</a><p>高颜值的第三方网易云播放器，支持本地音乐播放、离线歌单、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示。支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/alexzielenski/Mousecape>alexzielenski/Mousecape</a><p>Cursor Manager for OSX</p></li><li><a href=https://github.com/s0md3v/roop>s0md3v/roop</a><p>one-click face swap</p></li><li><a href=https://github.com/whyour/qinglong>whyour/qinglong</a><p>支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）</p></li><li><a href=https://github.com/ArkanDash/Multi-Model-RVC-Inference>ArkanDash/Multi-Model-RVC-Inference</a><p>RVC Inference with multiple model and huggingface support</p></li></ul>
+=======
+<ul><li><a href=https://github.com/vim/vim>vim/vim</a><p>The official Vim repository</p></li><li><a href=https://github.com/ShusenTang/Dive-into-DL-PyTorch>ShusenTang/Dive-into-DL-PyTorch</a><p>本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。</p></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li><li><a href=https://github.com/MrMarble/termsvg>MrMarble/termsvg</a><p>Record, share and export your terminal as a animated SVG image.</p></li><li><a href=https://github.com/Ashutosh00710/github-readme-activity-graph>Ashutosh00710/github-readme-activity-graph</a><p>A dynamically generated activity graph to show your GitHub activities of last 31 days.</p></li></ul>
+>>>>>>> 8d08c38d9f27d8a50df81561ac4b7f142395d123
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
+<<<<<<< HEAD
 <p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：2024/8/19 19:19<br>下一次刷新：2024/8/20 19:19</p>
+=======
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/19/24, 8:12 AM<br>下一次刷新：8/20/24, 8:12 AM</p>
+>>>>>>> 8d08c38d9f27d8a50df81561ac4b7f142395d123
