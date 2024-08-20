@@ -20,8 +20,8 @@ export const opensource = {
   }
 
   export const mxSpace = {
-    url: "https://sekai.us.kg",
-    api: "https://api.sekai.us.kg/api/v2",
+    url: "https://qwq.co.in",
+    api: "https://api.qwq.co.in/api/v2",
   };
   
   export const timeZone = 'Asia/Shanghai'
