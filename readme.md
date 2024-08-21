@@ -74,9 +74,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/djkcyl/Shamrock>djkcyl/Shamrock</a></li><li><a href=https://github.com/DLLXW/baby-llama2-chinese>DLLXW/baby-llama2-chinese</a><p>用于从头预训练+SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2.</p></li><li><a href=https://github.com/Qv2ray/Qv2ray>Qv2ray/Qv2ray</a><p>:star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:</p></li><li><a href=https://github.com/Sitoi/dailycheckin>Sitoi/dailycheckin</a><p>基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜</p></li><li><a href=https://github.com/stark81/my_yesplaymusic>stark81/my_yesplaymusic</a><p>高颜值的第三方网易云播放器，支持本地音乐播放、离线歌单、桌面歌词、Touch Bar歌词、Mac状态栏歌词显示。支持 Windows / macOS / Linux :electron:</p></li></ul>
+<ul><li><a href=https://github.com/ic005k/OCAuxiliaryTools>ic005k/OCAuxiliaryTools</a><p>Cross-platform GUI management tools for OpenCore（OCAT）</p></li><li><a href=https://github.com/RayWangQvQ/BiliBiliToolPro>RayWangQvQ/BiliBiliToolPro</a><p>B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。</p></li><li><a href=https://github.com/Sitoi/dailycheckin>Sitoi/dailycheckin</a><p>基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜</p></li><li><a href=https://github.com/MrMarble/termsvg>MrMarble/termsvg</a><p>Record, share and export your terminal as a animated SVG image.</p></li><li><a href=https://github.com/MatsuriDayo/nekoray>MatsuriDayo/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: sing-box)</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/20/24, 10:47 PM<br>下一次刷新：8/21/24, 10:47 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/21/24, 8:11 AM<br>下一次刷新：8/22/24, 8:11 AM</p>
