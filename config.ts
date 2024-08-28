@@ -20,8 +20,8 @@ export const opensource = {
   }
 
   export const mxSpace = {
-    url: "https://uwu.cab",
-    api: "https://api.uwu.cab/api/v2",
+    url: "https://030.ink",
+    api: "https://api.030.ink/api/v2",
   };
   
   export const timeZone = 'Asia/Shanghai'
