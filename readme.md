@@ -74,9 +74,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/DLLXW/baby-llama2-chinese>DLLXW/baby-llama2-chinese</a><p>用于从头预训练+SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2.</p></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/RayWangQvQ/BiliBiliToolPro>RayWangQvQ/BiliBiliToolPro</a><p>B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。</p></li><li><a href=https://github.com/djkcyl/Shamrock>djkcyl/Shamrock</a></li></ul>
+<ul><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li><li><a href=https://github.com/yb/uptime-status>yb/uptime-status</a><p>A pretty dashboard of uptime status based on UptimeRobot API</p></li><li><a href=https://github.com/MatsuriDayo/nekoray>MatsuriDayo/nekoray</a><p>Qt based cross-platform GUI proxy configuration manager (backend: sing-box)</p></li><li><a href=https://github.com/djkcyl/Shamrock>djkcyl/Shamrock</a></li><li><a href=https://github.com/yujincheng08/BiliRoaming>yujincheng08/BiliRoaming</a><p>哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/1/24, 8:14 AM<br>下一次刷新：9/2/24, 8:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/2/24, 8:12 AM<br>下一次刷新：9/3/24, 8:12 AM</p>
