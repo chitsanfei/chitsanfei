@@ -64,10 +64,6 @@
 
 <!-- opensource_toys -->
 
-**📖 | Recent Writing...**
-
-<!-- recent_posts_inject -->
-
 **💖 | Recently Liked...**
 
 <!-- recent_star_inject -->
