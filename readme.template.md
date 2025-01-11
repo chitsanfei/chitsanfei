@@ -1,8 +1,6 @@
 # Chitsanfei0v0 ![](https://visitor-badge.laobi.icu/badge?page_id=chitsanfei.visitor-badge)
 
-![120326070_p0](https://github.com/user-attachments/assets/6da3993a-332b-4742-bbcb-e6506b3decde)
-
-
+![banner-pid-124586987](https://github.com/user-attachments/assets/19ee00e3-3e07-4cbd-8dc7-1a53a745eff0)
 
 - I am a student of clinical medicine, insisting on living and learning! Recently I have been very busy, so I may not be online as so often!
 
