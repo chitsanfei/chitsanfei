@@ -69,9 +69,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/yb/uptime-status>yb/uptime-status</a><p>A pretty dashboard of uptime status based on UptimeRobot API</p></li><li><a href=https://github.com/ic005k/OCAuxiliaryTools>ic005k/OCAuxiliaryTools</a><p>Cross-platform GUI management tools for OpenCore（OCAT）</p></li><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a><p>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</p></li><li><a href=https://github.com/ChatGPTNextWeb/NextChat>ChatGPTNextWeb/NextChat</a><p>✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows</p></li><li><a href=https://github.com/eythaann/Seelen-UI>eythaann/Seelen-UI</a><p>The Fully Customizable Desktop Environment for Windows 10/11.</p></li></ul>
+<ul><li><a href=https://github.com/yb/uptime-status>yb/uptime-status</a><p>A pretty dashboard of uptime status based on UptimeRobot API</p></li><li><a href=https://github.com/guozhigq/pilipala>guozhigq/pilipala</a><p>PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。</p></li><li><a href=https://github.com/eythaann/Seelen-UI>eythaann/Seelen-UI</a><p>The Fully Customizable Desktop Environment for Windows 10/11.</p></li><li><a href=https://github.com/alexzielenski/Mousecape>alexzielenski/Mousecape</a><p>Cursor Manager for OSX</p></li><li><a href=https://github.com/blinkfox/hexo-theme-matery>blinkfox/hexo-theme-matery</a><p>A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/4/25, 8:13 AM<br>下一次刷新：3/5/25, 8:13 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/5/25, 8:13 AM<br>下一次刷新：3/6/25, 8:13 AM</p>
