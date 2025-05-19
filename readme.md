@@ -61,7 +61,7 @@
 
 **🎩 | Some Toys...**
 
-<table><thead align=center><tr><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Created At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>3/27/2023</td><td>10/19/2023</td></tr><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>3/24/2023</td><td>5/15/2025</td></tr></tbody></table>
+<table><thead align=center><tr><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Created At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>3/24/2023</td><td>5/15/2025</td></tr><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>3/27/2023</td><td>10/19/2023</td></tr></tbody></table>
 
 **💖 | Recently Liked...**
 
@@ -69,9 +69,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><p>分流规则、重写写规则及脚本。</p></li><li><a href=https://github.com/ic005k/OCAuxiliaryTools>ic005k/OCAuxiliaryTools</a><p>Cross-platform GUI management tools for OpenCore（OCAT）</p></li><li><a href=https://github.com/DLLXW/baby-llama2-chinese>DLLXW/baby-llama2-chinese</a><p>用于从头预训练+SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2.</p></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/RayWangQvQ/BiliBiliToolPro>RayWangQvQ/BiliBiliToolPro</a><p>B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。</p></li></ul>
+<ul><li><a href=https://github.com/imfing/hextra>imfing/hextra</a><p>🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites</p></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a><p>High-quality PNGs for logos I made for fun</p></li><li><a href=https://github.com/rhwong/qsign-onekey>rhwong/qsign-onekey</a><p>Quickly start the Qsign service on Windows</p></li><li><a href=https://github.com/ChatGPTNextWeb/NextChat>ChatGPTNextWeb/NextChat</a><p>✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows</p></li><li><a href=https://github.com/RayWangQvQ/BiliBiliToolPro>RayWangQvQ/BiliBiliToolPro</a><p>B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/18/25, 8:16 AM<br>下一次刷新：5/19/25, 8:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/19/25, 8:15 AM<br>下一次刷新：5/20/25, 8:15 AM</p>
