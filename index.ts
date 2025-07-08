@@ -55,6 +55,12 @@ axios.defaults.headers.common['User-Agent'] = userAgent
 const gh = axios.create({
   baseURL: githubAPIEndPoint,
   timeout: 4000,
+  headers: {
+    'User-Agent': userAgent,
+    ...(process.env.GITHUB_TOKEN && {
+      Authorization: `token ${process.env.GITHUB_TOKEN}`,
+    }),
+  },
 })
 
 // 添加响应拦截器以处理错误
