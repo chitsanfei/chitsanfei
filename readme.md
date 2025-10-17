@@ -69,9 +69,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/eythaann/Seelen-UI>eythaann/Seelen-UI</a><p>The Fully Customizable Desktop Environment for Windows 10/11.</p></li><li><a href=https://github.com/ic005k/OCAuxiliaryTools>ic005k/OCAuxiliaryTools</a><p>Cross-platform GUI management tools for OpenCore（OCAT）</p></li><li><a href=https://github.com/Qv2ray/Qv2ray>Qv2ray/Qv2ray</a><p>:star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:</p></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li><li><a href=https://github.com/stark81/my_yesplaymusic>stark81/my_yesplaymusic</a><p>高颜值的第三方网易云播放器，支持本地音乐播放、离线歌单、桌面歌词、Touch Bar歌词、Mac状态栏歌词、Linux-gnome环境状态栏歌词显示。支持 Windows / macOS / Linux :electron:</p></li></ul>
+<ul><li><a href=https://github.com/pear-devs/pear-desktop>pear-devs/pear-desktop</a><p>Pear 🍐 is extension for music player</p></li><li><a href=https://github.com/blackmatrix7/ios_rule_script>blackmatrix7/ios_rule_script</a><p>分流规则、重写写规则及脚本。</p></li><li><a href=https://github.com/alexzielenski/Mousecape>alexzielenski/Mousecape</a><p>Cursor Manager for OSX</p></li><li><a href=https://github.com/rhwong/qsign-onekey>rhwong/qsign-onekey</a><p>Quickly start the Qsign service on Windows</p></li><li><a href=https://github.com/yb/uptime-status>yb/uptime-status</a><p>A pretty dashboard of uptime status based on UptimeRobot API</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/16/25, 8:14 AM<br>下一次刷新：10/17/25, 8:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/17/25, 8:14 AM<br>下一次刷新：10/18/25, 8:14 AM</p>
