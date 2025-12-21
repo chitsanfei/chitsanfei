@@ -69,9 +69,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a><p>High-quality PNGs for logos I made for fun</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/langgenius/dify>langgenius/dify</a><p>Production-ready platform for agentic workflow development.</p></li><li><a href=https://github.com/jlegewie/zotfile>jlegewie/zotfile</a><p>Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.</p></li><li><a href=https://github.com/ic005k/OCAuxiliaryTools>ic005k/OCAuxiliaryTools</a><p>Cross-platform GUI management tools for OpenCore（OCAT）</p></li></ul>
+<ul><li><a href=https://github.com/yb/uptime-status>yb/uptime-status</a><p>A pretty dashboard of uptime status based on UptimeRobot API</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/imfing/hextra>imfing/hextra</a><p>🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites</p></li><li><a href=https://github.com/alexzielenski/Mousecape>alexzielenski/Mousecape</a><p>Cursor Manager for OSX</p></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a><p>High-quality PNGs for logos I made for fun</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/20/25, 8:15 AM<br>下一次刷新：12/21/25, 8:15 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：12/21/25, 8:17 AM<br>下一次刷新：12/22/25, 8:17 AM</p>
