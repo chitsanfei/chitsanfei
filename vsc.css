@@ -1,10 +1,7 @@
-.editor-group-watermark>.letterpress {
-    background-image: url("https://raw.githubusercontent.com/Aikoyori/ProgrammingVTuberLogos/main/VSCode/VSCode.png") !important;
-    opacity: 0.75;
-    overflow: visible;
-    filter: none;
-    transform: scale(1.5, 1.5);
-}
-
-@media (prefers-color-scheme: dark) {
+.editor-group-watermark .letterpress,
+.editor-group-watermark > .letterpress {
+  background-image: none !important;
+  background-image: url("https://images.cnblogs.com/cnblogs_com/blogs/765666/galleries/2417307/o_240821125700_VSCode-Thick.png") !important;
+  opacity: 0.75 !important;
+  background-position: center;
 }
