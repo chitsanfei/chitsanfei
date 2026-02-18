@@ -69,9 +69,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/nocodb/nocodb>nocodb/nocodb</a><p>🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative</p></li><li><a href=https://github.com/RayWangQvQ/BiliBiliToolPro>RayWangQvQ/BiliBiliToolPro</a><p>B 站（bilibili）自动任务工具，支持docker、青龙、k8s等多种部署方式。敏感肌也能用。</p></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a><p>High-quality PNGs for logos I made for fun</p></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><p>A Clash GUI based on tauri. Supports Windows, macOS and Linux.</p></li></ul>
+<ul><li><a href=https://github.com/langgenius/dify>langgenius/dify</a><p>Production-ready platform for agentic workflow development.</p></li><li><a href=https://github.com/ChatGPTNextWeb/NextChat>ChatGPTNextWeb/NextChat</a><p>✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows</p></li><li><a href=https://github.com/wasserth/TotalSegmentator>wasserth/TotalSegmentator</a><p>Tool for robust segmentation of >100 important anatomical structures in CT and MR images</p></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/pear-devs/pear-desktop>pear-devs/pear-desktop</a><p>Pear 🍐 is extension for music player</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：2/17/26, 8:21 AM<br>下一次刷新：2/18/26, 8:21 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：2/18/26, 8:21 AM<br>下一次刷新：2/19/26, 8:21 AM</p>
