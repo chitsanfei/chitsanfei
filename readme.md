@@ -69,9 +69,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/AstrBotDevs/AstrBot>AstrBotDevs/AstrBot</a><p>Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</p></li><li><a href=https://github.com/DLLXW/baby-llama2-chinese>DLLXW/baby-llama2-chinese</a><p>用于从头预训练+SFT一个小参数量的中文LLaMa2的仓库；24G单卡即可运行得到一个具备简单中文问答能力的chat-llama2.</p></li><li><a href=https://github.com/youniaogu/MangaReader>youniaogu/MangaReader</a><p>一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台</p></li><li><a href=https://github.com/Sitoi/dailycheckin>Sitoi/dailycheckin</a><p>基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜</p></li><li><a href=https://github.com/langgenius/dify>langgenius/dify</a><p>Production-ready platform for agentic workflow development.</p></li></ul>
+<ul><li><a href=https://github.com/blinkfox/hexo-theme-matery>blinkfox/hexo-theme-matery</a><p>A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com</p></li><li><a href=https://github.com/ChatGPTNextWeb/NextChat>ChatGPTNextWeb/NextChat</a><p>✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows</p></li><li><a href=https://github.com/imfing/hextra>imfing/hextra</a><p>🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites</p></li><li><a href=https://github.com/rhwong/qsign-onekey>rhwong/qsign-onekey</a><p>Quickly start the Qsign service on Windows</p></li><li><a href=https://github.com/Sitoi/dailycheckin>Sitoi/dailycheckin</a><p>基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/7/26, 8:19 AM<br>下一次刷新：3/8/26, 8:19 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：3/8/26, 8:19 AM<br>下一次刷新：3/9/26, 8:19 AM</p>
