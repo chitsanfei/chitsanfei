@@ -69,9 +69,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/spiritLHLS/ecs>spiritLHLS/ecs</a><p>VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/yb/uptime-status>yb/uptime-status</a><p>A pretty dashboard of uptime status based on UptimeRobot API</p></li><li><a href=https://github.com/ic005k/OCAuxiliaryTools>ic005k/OCAuxiliaryTools</a><p>Cross-platform GUI management tools for OpenCore（OCAT）</p></li><li><a href=https://github.com/langgenius/dify>langgenius/dify</a><p>Production-ready platform for agentic workflow development.</p></li></ul>
+<ul><li><a href=https://github.com/langgenius/dify>langgenius/dify</a><p>Production-ready platform for agentic workflow development.</p></li><li><a href=https://github.com/yb/uptime-status>yb/uptime-status</a><p>A pretty dashboard of uptime status based on UptimeRobot API</p></li><li><a href=https://github.com/pear-devs/pear-desktop>pear-devs/pear-desktop</a><p>Pear 🍐 is extension for music player</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/ChatGPTNextWeb/NextChat>ChatGPTNextWeb/NextChat</a><p>✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/2/26, 8:22 AM<br>下一次刷新：4/3/26, 8:22 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/3/26, 8:23 AM<br>下一次刷新：4/4/26, 8:23 AM</p>
