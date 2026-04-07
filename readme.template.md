@@ -15,12 +15,7 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/chitsanfei/">
-    <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chitsanfei&show_icons=true&include_all_commits=true&theme=transparent" />
-  </a>
-  <a href="https://github.com/chitsanfei/">
-    <img align="center" alt="Top Langs" height="200" width="360" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitsanfei&layout=compact&theme=transparent" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=chitsanfei&theme=sakura-x&short_numbers=true" alt="GitHub Streak" /></a>
 </p>
 
 <br />
