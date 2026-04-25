@@ -56,7 +56,7 @@
 
 **🎩 | Some Toys...**
 
-<table><thead align=center><tr><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Created At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>3/27/2023</td><td>4/19/2026</td></tr><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>3/24/2023</td><td>4/23/2026</td></tr></tbody></table>
+<table><thead align=center><tr><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Created At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>3/24/2023</td><td>4/23/2026</td></tr><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>3/27/2023</td><td>4/19/2026</td></tr></tbody></table>
 
 **💖 | Recently Liked...**
 
@@ -64,9 +64,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/wasserth/TotalSegmentator>wasserth/TotalSegmentator</a><p>Tool for robust segmentation of >100 important anatomical structures in CT and MR images</p></li><li><a href=https://github.com/langgenius/dify>langgenius/dify</a><p>Production-ready platform for agentic workflow development.</p></li><li><a href=https://github.com/eythaann/Seelen-UI>eythaann/Seelen-UI</a><p>The Fully Customizable Desktop Environment for Windows 10/11.</p></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a><p>High-quality PNGs for logos I made for fun</p></li></ul>
+<ul><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/eythaann/Seelen-UI>eythaann/Seelen-UI</a><p>The Fully Customizable Desktop Environment for Windows 10/11.</p></li><li><a href=https://github.com/Aikoyori/ProgrammingVTuberLogos>Aikoyori/ProgrammingVTuberLogos</a><p>High-quality PNGs for logos I made for fun</p></li><li><a href=https://github.com/blinkfox/hexo-theme-matery>blinkfox/hexo-theme-matery</a><p>A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：http://blinkfox.com</p></li><li><a href=https://github.com/wileyyugioh/zotmoov>wileyyugioh/zotmoov</a><p>Zotero plugin to automatically move attachments and link them</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/24/26, 8:31 AM<br>下一次刷新：4/25/26, 8:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：4/25/26, 8:27 AM<br>下一次刷新：4/26/26, 8:27 AM</p>
