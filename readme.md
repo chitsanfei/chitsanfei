@@ -64,9 +64,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/baserow/baserow>baserow/baserow</a><p>Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.</p></li><li><a href=https://github.com/imfing/hextra>imfing/hextra</a><p>🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites</p></li><li><a href=https://github.com/yb/uptime-status>yb/uptime-status</a><p>A pretty dashboard of uptime status based on UptimeRobot API</p></li><li><a href=https://github.com/eythaann/Seelen-UI>eythaann/Seelen-UI</a><p>The Fully Customizable Desktop Environment for Windows 10/11.</p></li></ul>
+<ul><li><a href=https://github.com/rhwong/qsign-onekey>rhwong/qsign-onekey</a><p>Quickly start the Qsign service on Windows</p></li><li><a href=https://github.com/nocodb/nocodb>nocodb/nocodb</a><p>🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative</p></li><li><a href=https://github.com/wasserth/TotalSegmentator>wasserth/TotalSegmentator</a><p>Tool for robust segmentation of >100 important anatomical structures in CT and MR images</p></li><li><a href=https://github.com/stark81/my_yesplaymusic>stark81/my_yesplaymusic</a><p>高颜值的第三方网易云播放器，支持本地音乐播放、离线歌单、桌面歌词、Touch Bar歌词、Mac状态栏歌词、Linux-gnome环境状态栏歌词显示。支持 Windows / macOS / Linux :electron:</p></li><li><a href=https://github.com/spiritLHLS/ecs>spiritLHLS/ecs</a><p>VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/4/26, 8:33 AM<br>下一次刷新：5/5/26, 8:33 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：5/5/26, 8:33 AM<br>下一次刷新：5/6/26, 8:33 AM</p>
