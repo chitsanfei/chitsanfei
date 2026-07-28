@@ -64,9 +64,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/ChatGPTNextWeb/NextChat>ChatGPTNextWeb/NextChat</a><p>✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows</p></li><li><a href=https://github.com/openclaw/openclaw>openclaw/openclaw</a><p>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</p></li><li><a href=https://github.com/nocodb/nocodb>nocodb/nocodb</a><p>🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/youniaogu/MangaReader>youniaogu/MangaReader</a><p>一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台</p></li></ul>
+<ul><li><a href=https://github.com/TauricResearch/TradingAgents>TauricResearch/TradingAgents</a><p>TradingAgents: Multi-Agents LLM Financial Trading Framework</p></li><li><a href=https://github.com/spiritLHLS/ecs>spiritLHLS/ecs</a><p>VPS 融合怪服务器测评项目 更推荐使用无环境依赖的Go版本 VPS Fusion Monster Server Test Script – More recommended to use the Go version with no environment dependencies: https://github.com/oneclickvirt/ecs</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/ytmdesktop/ytmdesktop>ytmdesktop/ytmdesktop</a><p>A Desktop App for YouTube Music</p></li><li><a href=https://github.com/jlegewie/zotfile>jlegewie/zotfile</a><p>Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/27/26, 10:28 AM<br>下一次刷新：7/28/26, 10:28 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：7/28/26, 10:03 AM<br>下一次刷新：7/29/26, 10:03 AM</p>
