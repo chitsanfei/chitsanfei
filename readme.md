@@ -64,9 +64,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/openclaw/openclaw>openclaw/openclaw</a><p>Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞</p></li><li><a href=https://github.com/wileyyugioh/zotmoov>wileyyugioh/zotmoov</a><p>Zotero plugin to automatically move attachments and link them</p></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/langgenius/dify>langgenius/dify</a><p>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.</p></li></ul>
+<ul><li><a href=https://github.com/youniaogu/MangaReader>youniaogu/MangaReader</a><p>一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台</p></li><li><a href=https://github.com/ic005k/OCAuxiliaryTools>ic005k/OCAuxiliaryTools</a><p>Cross-platform GUI management tools for OpenCore（OCAT）</p></li><li><a href=https://github.com/nocodb/nocodb>nocodb/nocodb</a><p>🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative</p></li><li><a href=https://github.com/AstrBotDevs/AstrBot>AstrBotDevs/AstrBot</a><p>AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/13/26, 9:26 AM<br>下一次刷新：8/14/26, 9:26 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：8/14/26, 9:25 AM<br>下一次刷新：8/15/26, 9:25 AM</p>
