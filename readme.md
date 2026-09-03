@@ -56,7 +56,7 @@
 
 **🎩 | Some Toys...**
 
-<table><thead align=center><tr><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Created At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>3/27/2023</td><td>8/29/2026</td></tr><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>3/24/2023</td><td>8/28/2026</td></tr></tbody></table>
+<table><thead align=center><tr><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Created At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/chitsanfei/sekai-voice-fetch target=_blank><b>chitsanfei/sekai-voice-fetch</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/sekai-voice-fetch?style=flat-square&labelColor=343b41"></td><td>3/24/2023</td><td>9/2/2026</td></tr><tr><td><a href=https://github.com/chitsanfei/koishi-plugin-setu target=_blank><b>chitsanfei/koishi-plugin-setu</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/chitsanfei/koishi-plugin-setu?style=flat-square&labelColor=343b41"></td><td>3/27/2023</td><td>8/29/2026</td></tr></tbody></table>
 
 **💖 | Recently Liked...**
 
@@ -64,9 +64,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/TraderAlice/OpenAlice>TraderAlice/OpenAlice</a><p>Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.</p></li><li><a href=https://github.com/ic005k/OCAuxiliaryTools>ic005k/OCAuxiliaryTools</a><p>Cross-platform GUI management tools for OpenCore（OCAT）</p></li><li><a href=https://github.com/wileyyugioh/zotmoov>wileyyugioh/zotmoov</a><p>Zotero plugin to automatically move attachments and link them</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/ytmdesktop/ytmdesktop>ytmdesktop/ytmdesktop</a><p>A Desktop App for YouTube Music</p></li></ul>
+<ul><li><a href=https://github.com/youniaogu/MangaReader>youniaogu/MangaReader</a><p>一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台</p></li><li><a href=https://github.com/pear-devs/pear-desktop>pear-devs/pear-desktop</a><p>Pear 🍐 is extension for music player</p></li><li><a href=https://github.com/wasserth/TotalSegmentator>wasserth/TotalSegmentator</a><p>Tool for robust segmentation of >100 important anatomical structures in CT and MR images</p></li><li><a href=https://github.com/langgenius/dify>langgenius/dify</a><p>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/2/26, 10:31 AM<br>下一次刷新：9/3/26, 10:31 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/3/26, 10:38 AM<br>下一次刷新：9/4/26, 10:38 AM</p>
