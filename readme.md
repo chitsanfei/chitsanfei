@@ -64,9 +64,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/ChatGPTNextWeb/NextChat>ChatGPTNextWeb/NextChat</a><p>✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows</p></li><li><a href=https://github.com/h4ckf0r0day/obscura>h4ckf0r0day/obscura</a><p>The headless browser for AI agents and web scraping</p></li><li><a href=https://github.com/hsliuping/TradingAgents-CN>hsliuping/TradingAgents-CN</a><p>基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版</p></li><li><a href=https://github.com/nocodb/nocodb>nocodb/nocodb</a><p>🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative</p></li><li><a href=https://github.com/pear-devs/pear-desktop>pear-devs/pear-desktop</a><p>Pear 🍐 is extension for music player</p></li></ul>
+<ul><li><a href=https://github.com/wileyyugioh/zotmoov>wileyyugioh/zotmoov</a><p>Zotero plugin to automatically move attachments and link them</p></li><li><a href=https://github.com/jlegewie/zotfile>jlegewie/zotfile</a><p>Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.</p></li><li><a href=https://github.com/baserow/baserow>baserow/baserow</a><p>Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.</p></li><li><a href=https://github.com/TauricResearch/TradingAgents>TauricResearch/TradingAgents</a><p>TradingAgents: Multi-Agents LLM Financial Trading Framework</p></li><li><a href=https://github.com/ic005k/OCAuxiliaryTools>ic005k/OCAuxiliaryTools</a><p>Cross-platform GUI management tools for OpenCore（OCAT）</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/4/26, 10:35 AM<br>下一次刷新：9/5/26, 10:35 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/5/26, 10:36 AM<br>下一次刷新：9/6/26, 10:36 AM</p>
