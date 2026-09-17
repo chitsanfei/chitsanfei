@@ -64,9 +64,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/spiritLHLS/ecs>spiritLHLS/ecs</a><p>VPS 融合怪服务器测评脚本 —— 更推荐使用无环境依赖的 Go 版本：https://github.com/oneclickvirt/ecs VPS Fusion Monster Server Test Script — we now recommend the Go version (zero external dependencies): https://github.com/oneclickvirt/ecs</p></li><li><a href=https://github.com/GuDong2003/xianyu-auto-reply-fix>GuDong2003/xianyu-auto-reply-fix</a><p>闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台</p></li><li><a href=https://github.com/ytmdesktop/ytmdesktop>ytmdesktop/ytmdesktop</a><p>A Desktop App for YouTube Music</p></li><li><a href=https://github.com/TauricResearch/TradingAgents>TauricResearch/TradingAgents</a><p>TradingAgents: Multi-Agents LLM Financial Trading Framework</p></li><li><a href=https://github.com/AstrBotDevs/AstrBot>AstrBotDevs/AstrBot</a><p>AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</p></li></ul>
+<ul><li><a href=https://github.com/langgenius/dify>langgenius/dify</a><p>Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.</p></li><li><a href=https://github.com/Innei/Shiro>Innei/Shiro</a><p>📜 A minimalist personal website embodying the purity of paper and freshness of snow.</p></li><li><a href=https://github.com/hsliuping/TradingAgents-CN>hsliuping/TradingAgents-CN</a><p>基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版</p></li><li><a href=https://github.com/nocodb/nocodb>nocodb/nocodb</a><p>🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative</p></li><li><a href=https://github.com/ytmdesktop/ytmdesktop>ytmdesktop/ytmdesktop</a><p>A Desktop App for YouTube Music</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/16/26, 10:59 AM<br>下一次刷新：9/17/26, 10:59 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：9/17/26, 11:02 AM<br>下一次刷新：9/18/26, 11:02 AM</p>
