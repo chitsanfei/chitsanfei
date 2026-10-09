@@ -64,9 +64,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/nocodb/nocodb>nocodb/nocodb</a><p>🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative</p></li><li><a href=https://github.com/youniaogu/MangaReader>youniaogu/MangaReader</a><p>一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台</p></li><li><a href=https://github.com/h4ckf0r0day/obscura>h4ckf0r0day/obscura</a><p>The headless browser for AI agents and web scraping</p></li><li><a href=https://github.com/AstrBotDevs/AstrBot>AstrBotDevs/AstrBot</a><p>AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨</p></li><li><a href=https://github.com/TauricResearch/TradingAgents>TauricResearch/TradingAgents</a><p>TradingAgents: Multi-Agents LLM Financial Trading Framework</p></li></ul>
+<ul><li><a href=https://github.com/baserow/baserow>baserow/baserow</a><p>Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.</p></li><li><a href=https://github.com/LagrangeDev/Lagrange.Core>LagrangeDev/Lagrange.Core</a><p>An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core</p></li><li><a href=https://github.com/TraderAlice/OpenAlice>TraderAlice/OpenAlice</a><p>Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.</p></li><li><a href=https://github.com/hsliuping/TradingAgents-CN>hsliuping/TradingAgents-CN</a><p>基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版</p></li><li><a href=https://github.com/Lakr233/AssppWeb>Lakr233/AssppWeb</a></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/8/26, 12:08 PM<br>下一次刷新：10/9/26, 12:08 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/9/26, 12:14 PM<br>下一次刷新：10/10/26, 12:14 PM</p>
