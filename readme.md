@@ -64,9 +64,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/youniaogu/MangaReader>youniaogu/MangaReader</a><p>一个漫画 APP📱，基于 react-native 构建，兼容 Android、Ios 平台</p></li><li><a href=https://github.com/RivenLau/orion-key>RivenLau/orion-key</a><p>🔑 Orion Key — 现代化开源自动发卡平台，极简优雅的设计，基于 React + Tailwind CSS + Next.js + Spring Boot + PostgreSQL 全新架构打造，重新定义虚拟数字商品销售体验 #发卡系统 #自动发卡网 #自助发卡</p></li><li><a href=https://github.com/hsliuping/TradingAgents-CN>hsliuping/TradingAgents-CN</a><p>基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版</p></li><li><a href=https://github.com/h4ckf0r0day/obscura>h4ckf0r0day/obscura</a><p>The headless browser for AI agents and web scraping</p></li><li><a href=https://github.com/GuDong2003/xianyu-auto-reply-fix>GuDong2003/xianyu-auto-reply-fix</a><p>闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台</p></li></ul>
+<ul><li><a href=https://github.com/anywhere-labs/dsh-desktop>anywhere-labs/dsh-desktop</a><p>为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li><li><a href=https://github.com/TauricResearch/TradingAgents>TauricResearch/TradingAgents</a><p>TradingAgents: Multi-Agents LLM Financial Trading Framework</p></li><li><a href=https://github.com/jlegewie/zotfile>jlegewie/zotfile</a><p>Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.</p></li><li><a href=https://github.com/YuKongA/Mishka>YuKongA/Mishka</a><p>[Android] A mihomo GUI</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/30/26, 12:02 PM<br>下一次刷新：10/31/26, 12:02 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：10/31/26, 11:47 AM<br>下一次刷新：11/1/26, 11:47 AM</p>
