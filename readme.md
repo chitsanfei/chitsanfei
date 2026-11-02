@@ -64,9 +64,9 @@
 
 **🌟 | Starred**
 
-<ul><li><a href=https://github.com/YuKongA/Mishka>YuKongA/Mishka</a><p>[Android] A mihomo GUI</p></li><li><a href=https://github.com/RivenLau/orion-key>RivenLau/orion-key</a><p>🔑 Orion Key — 现代化开源自动发卡平台，极简优雅的设计，基于 React + Tailwind CSS + Next.js + Spring Boot + PostgreSQL 全新架构打造，重新定义虚拟数字商品销售体验 #发卡系统 #自动发卡网 #自助发卡</p></li><li><a href=https://github.com/hsliuping/TradingAgents-CN>hsliuping/TradingAgents-CN</a><p>基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版</p></li><li><a href=https://github.com/GuDong2003/xianyu-auto-reply-fix>GuDong2003/xianyu-auto-reply-fix</a><p>闲鱼智能客服系统，支持多账号管理、AI自动回复、自动发货确认、多渠道消息通知，提供完整的 Web 管理后台</p></li><li><a href=https://github.com/pear-devs/pear-desktop>pear-devs/pear-desktop</a><p>Pear 🍐 is extension for music player</p></li></ul>
+<ul><li><a href=https://github.com/h4ckf0r0day/obscura>h4ckf0r0day/obscura</a><p>The headless browser for AI agents and web scraping</p></li><li><a href=https://github.com/ytmdesktop/ytmdesktop>ytmdesktop/ytmdesktop</a><p>A Desktop App for YouTube Music</p></li><li><a href=https://github.com/pear-devs/pear-desktop>pear-devs/pear-desktop</a><p>Pear 🍐 is extension for music player</p></li><li><a href=https://github.com/ccch1mneyyy/dsh-TUI>ccch1mneyyy/dsh-TUI</a><p>DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像素鲸鱼，流畅鼠标交互，npm 一键安装</p></li><li><a href=https://github.com/straight-tamago/misaka26>straight-tamago/misaka26</a><p>iOS /iPadOS 16.0 - 26.1, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible.</p></li></ul>
 
 ------------
 
 <p align=center><strong><i> To infinity and beyond! </i></strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/1/26, 11:56 AM<br>下一次刷新：11/2/26, 11:56 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！ <b>设计参考为 <a href=https://github.com/Innei/Innei>Innei</a> 的 Github Profile, Thanks.</b><br>刷新于：11/2/26, 11:59 AM<br>下一次刷新：11/3/26, 11:59 AM</p>
